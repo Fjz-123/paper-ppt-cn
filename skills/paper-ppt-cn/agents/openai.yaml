@@ -1,0 +1,4 @@
+interface:
+  display_name: "模板驱动论文PPT"
+  short_description: "根据给定模板与论文数据源制作PPT，交付逐页讲稿、来源清单和提取图片包"
+  default_prompt: "使用 $paper-ppt-cn，按我提供的模板读取指定论文和数据源，制作图文匹配的中文汇报PPT，并交付逐页讲稿、来源清单及提取图片包。"
